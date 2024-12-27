@@ -1,0 +1,416 @@
+{
+  "T-shirt": [
+    {
+      "id": "ce7e",
+      "productName": "Evo Training Tshirt",
+      "description": "This is the description of Bench Category",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/EvoTrainingTshirtBlueGym.jpg?v=1709575727&width=540",
+      "rating": "5",
+      "price": 500
+    },
+    {
+      "id": "5310",
+      "productName": "Evo Training Tshirt",
+      "description": "Evolution Training Tshirts by Aesthetic Nation",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/EvoTrainingTshirtBlueGym.jpg?v=1709575727&width=540",
+      "rating": "4",
+      "price": 599
+    },
+    {
+      "id": "63d5",
+      "productName": "Evo Training Tshirt",
+      "description": "Evolution Training Tshirts by Aesthetic Nation",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/BlackEvoTrainingTshirtForGym.jpg?v=1717857863&width=540",
+      "rating": "4",
+      "price": 599
+    },
+    {
+      "id": "201a",
+      "productName": "Evo Training Tshirt",
+      "description": "Evolution Training Tshirts by Aesthetic Nation",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/ArmyGreenEvoTrainingTshirtCloseup.jpg?v=1709575101&width=540",
+      "rating": "4",
+      "price": 599
+    },
+    {
+      "id": "121d",
+      "productName": "Evo Training Tshirt",
+      "description": "Evolution Training Tshirts by Aesthetic Nation",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/IMG32427.jpg?v=1718035770&width=540",
+      "rating": "4",
+      "price": 599
+    },
+    {
+      "id": "0a42",
+      "productName": "Evo Training Tshirt",
+      "description": "Evolution Training Tshirts by Aesthetic Nation",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/RICH135_4.jpg?v=1721394256&width=540",
+      "rating": "4",
+      "price": 599
+    },
+    {
+      "id": "83f6",
+      "productName": "Evo Training Tshirt",
+      "description": "Evolution Training Tshirts by Aesthetic Nation",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/IMG32421.jpg?v=1718037573&width=540",
+      "rating": "3",
+      "price": 599
+    },
+    {
+      "id": "852b",
+      "productName": "Evo Training Tshirt",
+      "description": "Evolution Training Tshirts by Aesthetic Nation",
+      "image": "https://aestheticnation.co.in/cdn/shop/products/Animaldrifitblacktshirt.jpg?v=1667643204&width=540",
+      "rating": "4",
+      "price": 699
+    }
+  ],
+  "Compression": [
+    {
+      "productName": "Critical Compressed T-Shirt",
+      "description": "This is the description of Bench Category",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/CriticalcompressionTshirtBlueShortSleeves_2_b6fae305-d303-4a63-9fc8-dad19a171441.jpg?v=1721750099&width=540",
+      "rating": "4",
+      "price": 1099,
+      "id": "3ec5"
+    },
+    {
+      "id": "4650",
+      "productName": "Critical Compressed T-Shirt",
+      "description": "Critical Compression T-Shirt – the ultimate gear",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/CriticalCompressionTshirtBlueTiedyeShortSleeves_1.jpg?v=1711100726&width=1800",
+      "rating": "4",
+      "price": 899
+    },
+    {
+      "id": "1feb",
+      "productName": "Critical Compressed T-Shirt",
+      "description": "Critical Compression T-Shirt – the ultimate gear",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/4_48128ac6-d4e3-4dfc-b517-0dd62cb79f6f.jpg?v=1711100809&width=540",
+      "rating": "4",
+      "price": 899
+    },
+    {
+      "id": "82e0",
+      "productName": "Critical Compressed T-Shirt",
+      "description": "Critical Compression T-Shirt – the ultimate gear",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/2_636ba48d-123a-44d2-a3dd-0eef34f374dc.jpg?v=1711100769&width=540",
+      "rating": "3",
+      "price": 899
+    },
+    {
+      "id": "5cc8",
+      "productName": "Critical Compressed T-Shirt",
+      "description": "Critical Compression T-Shirt – the ultimate gear",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/CriticalcompressionTshirtBlueShortSleeves_2.jpg?v=1711100852&width=540",
+      "rating": "4",
+      "price": 899
+    },
+    {
+      "id": "403b",
+      "productName": "Critical Compressed T-Shirt",
+      "description": "Critical Compression T-Shirt – the ultimate gear",
+      "image": "https://www.jockey.in/cdn/shop/products/AM48_WDGGR_0103_S223_JKY_1.webp?v=1700035504&width=420",
+      "rating": "5",
+      "price": 599
+    },
+    {
+      "id": "e6c0",
+      "productName": "Critical Compressed Jacket",
+      "description": "Critical Compression T-Shirt – the ultimate gear",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/PerformanceTshirtGrey_8.jpg?v=1694790363&width=540",
+      "rating": "4",
+      "price": 899
+    },
+    {
+      "id": "9cdc",
+      "productName": "Critical Compressed T-Shirt",
+      "description": "Critical Compression T-Shirt – the ultimate gear",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/2_e184303b-1def-44d8-8bbd-347c0400d206.jpg?v=1715103529&width=540",
+      "rating": "5",
+      "price": 699
+    }
+  ],
+  "Trackpants": [
+    {
+      "id": "5650",
+      "productName": "Aesthetic Baggy Joggers",
+      "description": "This is the description of Dumbell Category",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/PrintedJoggersGreyCloseup.jpg?v=1722077279&width=540",
+      "rating": "3",
+      "price": 1000
+    },
+    {
+      "id": "ea34",
+      "productName": "Aesthetic Baggy Joggers",
+      "description": "Loose Fit | Recommended to select a Size",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/PrintedJoggersGreyCloseup.jpg?v=1722077279&width=540",
+      "rating": "3",
+      "price": 1099
+    },
+    {
+      "id": "3f80",
+      "productName": "Aesthetic Baggy Joggers",
+      "description": "Loose Fit | Recommended to select a Size",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/FleeceTechBlackJoggers_8.jpg?v=1694790472&width=540",
+      "rating": "4",
+      "price": 1099
+    },
+    {
+      "id": "2f7e",
+      "productName": "Aesthetic Baggy Joggers",
+      "description": "Loose Fit | Recommended to select a Size",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/FleecetechOversizedJoggerGrey.jpg?v=1697301532&width=540",
+      "rating": "4",
+      "price": 1099
+    },
+    {
+      "id": "abc3",
+      "productName": "Aesthetic Baggy Joggers",
+      "description": "Loose Fit | Recommended to select a Size",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/FleecetechJoggersKhakhi_6.jpg?v=1694788921&width=540",
+      "rating": "4",
+      "price": 1099
+    },
+    {
+      "id": "2786",
+      "productName": "Aesthetic Tight Joggers",
+      "description": "Loose Fit | Recommended to select a Size",
+      "image": "https://aestheticnation.co.in/cdn/shop/products/CDYRY-PRF-BLCK-M_2.jpg?v=1696611281&width=540",
+      "rating": "",
+      "price": 1091
+    },
+    {
+      "id": "0d97",
+      "productName": "Aesthetic Luxe Joggers",
+      "description": "Loose Fit | Recommended to select a Size",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/1_c9265ea6-a36d-409a-8bc9-db087f9e815f.jpg?v=1714215796&width=540",
+      "rating": "4",
+      "price": 1099
+    },
+    {
+      "id": "d133",
+      "productName": "Aesthetic Baggy Joggers",
+      "description": "Loose Fit | Recommended to select a Size",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/StreetCargoDullPurpleMenFitnessGym.jpg?v=1709573365&width=540",
+      "rating": "4",
+      "price": 899
+    },
+    {
+      "id": "93c5",
+      "productName": "Evo Training Tshirt",
+      "description": "This is the description of Bench Category",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/PrintedJoggersGreyCloseup.jpg?v=1722077279&width=540",
+      "rating": "4",
+      "price": 599
+    }
+  ],
+  "Shorts": [
+    {
+      "id": "cdb1",
+      "productName": "Clover Camo Shorts",
+      "description": "This is the description of Dumbell Category",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/AESTHETICNATION1016_1c75f85a-3a6d-43b6-b735-9457ab8bbfa3.jpg?v=1721463091&width=540",
+      "rating": "4",
+      "price": 500
+    },
+    {
+      "id": "84d4",
+      "productName": "Clover Camo Shorts",
+      "description": " Comfort-Fit | Recommended to select a Size",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/AESTHETICNATION1016_1c75f85a-3a6d-43b6-b735-9457ab8bbfa3.jpg?v=1721463091&width=540",
+      "rating": "4",
+      "price": 699
+    },
+    {
+      "id": "e56b",
+      "productName": "Clover Camo Shorts",
+      "description": " Comfort-Fit | Recommended to select a Size",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/CloverDgreyCamoShorts_6.jpg?v=1696235677&width=540",
+      "rating": "4",
+      "price": 899
+    },
+    {
+      "id": "a431",
+      "productName": "Clover Camo Shorts",
+      "description": "Critical Compression T-Shirt – the ultimate gear",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/AESTHETICNATION0798.jpg?v=1714059758&width=540",
+      "rating": "3",
+      "price": 899
+    },
+    {
+      "id": "5596",
+      "productName": "Clover Camo Shorts",
+      "description": "Critical Compression T-Shirt – the ultimate gear",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/CriticalCompressionBlueShorts_1.jpg?v=1701802381&width=540",
+      "rating": "4",
+      "price": 899
+    },
+    {
+      "id": "eda2",
+      "productName": "Clover Camo Shorts",
+      "description": "Comfort-Fit | Recommended to select same",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/AESTHETICNATION0951.jpg?v=1714059958&width=540",
+      "rating": "3",
+      "price": 699
+    },
+    {
+      "id": "c3a5",
+      "productName": "Clover Camo Shorts",
+      "description": "Comfort-Fit | Recommended to select same",
+      "image": "https://aestheticnation.co.in/cdn/shop/products/RICH266_6_c0d0290b-1c4e-4613-9c40-420ea2579c6e.jpg?v=1675407588&width=540",
+      "rating": "4",
+      "price": 699
+    },
+    {
+      "id": "568c",
+      "productName": "Clover Camo Shorts",
+      "description": " Comfort-Fit | Recommended to select a Size",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/CriticalCompressionShortsCamofront.jpg?v=1716814041&width=540",
+      "rating": "5",
+      "price": 899
+    }
+  ],
+  "Vests": [
+    {
+      "id": "7449",
+      "productName": "Deepcut Wavy Tank",
+      "description": "This is the description of Bench Category",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/EvoTrainingTshirtBlueGym.jpg?v=1709575727&width=540",
+      "rating": "4",
+      "price": 699
+    },
+    {
+      "id": "0eb7",
+      "productName": "Critical Tie Dye Stringer",
+      "description": "Aesthetic Nation Model is 5,11, 40 Inches Chest",
+      "image": "https://aestheticnation.co.in/cdn/shop/products/ecommerceaestheticN-4703-Edit.jpg?v=1607616962&width=540",
+      "rating": "3",
+      "price": 699
+    },
+    {
+      "id": "390b",
+      "productName": "Critical Tie Dye Stringer",
+      "description": "Aesthetic Nation Model is 5,11, 40 Inches Chest",
+      "image": "https://aestheticnation.co.in/cdn/shop/products/ecommerceaestheticN-4690.jpg?v=1608118624&width=540",
+      "rating": "4",
+      "price": 699
+    },
+    {
+      "id": "5ba2",
+      "productName": "Critical Tie Dye Stringer",
+      "description": "Comfort-Fit | Recommended to select same",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/RICH138_1_bb85aeea-1d36-4906-a2a5-29e667beb26d.jpg?v=1721390579&width=540",
+      "rating": "4",
+      "price": 699
+    },
+    {
+      "id": "47dd",
+      "productName": "Critical Tie Dye Stringer",
+      "description": "Comfort-Fit | Recommended to select same",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/RICH140_3_f238cbd2-9fcc-4c70-a77f-adde8cc6f1cc.jpg?v=1721392334&width=540",
+      "rating": "4",
+      "price": 69
+    },
+    {
+      "id": "cfcf",
+      "productName": "Critical Tie Dye Stringer",
+      "description": "Comfort-Fit | Recommended to select same",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/RICH139_2_4b19f2f0-1368-4e5f-85d1-b5bcb98391b9.jpg?v=1718875831&width=540",
+      "rating": "4",
+      "price": 59
+    },
+    {
+      "id": "53be",
+      "productName": "Critical Tie Dye Stringer",
+      "description": "Comfort-Fit | Recommended to select same",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/AESTHETICNATION1148.jpg?v=1714061630&width=540",
+      "rating": "4",
+      "price": 699
+    },
+    {
+      "id": "c2ca",
+      "productName": "Critical Tie Dye Stringer",
+      "description": "Comfort-Fit | Recommended to select same",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/AESTHETICNATION1069.jpg?v=1714061374&width=540",
+      "rating": "4",
+      "price": 699
+    }
+  ],
+  "Oversized": [
+    {
+      "id": "682f",
+      "productName": "Aesthetic OG Pullover",
+      "description": "This is the description of Bench Category",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/AestheticOrginalHoodieNavyBlue_1.jpg?v=1699160253&width=540",
+      "rating": "3",
+      "price": 1099
+    },
+    {
+      "id": "49dc",
+      "productName": "FleeceTech Pullover Hoodie",
+      "description": "Stay cozy and stylish this winter",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/PulloverHoodieBeige_4.jpg?v=1702842604&width=540",
+      "rating": "4",
+      "price": 1099
+    },
+    {
+      "id": "1c3a",
+      "productName": "FleeceTech Pullover Hoodie",
+      "description": "Stay cozy and stylish this winter",
+      "image": "https://aestheticnation.co.in/cdn/shop/files/AestheticOrginalHoodieNavyBlue_1.jpg?v=1699160253&width=540",
+      "rating": "3",
+      "price": 999
+    },
+    {
+      "id": "266e",
+      "productName": "FleeceTech Pullover Hoodie",
+      "description": "Stay cozy and stylish this winter",
+      "image": "https://aestheticnation.co.in/cdn/shop/products/RICH266_4.jpg?v=1673077778&width=540",
+      "rating": "4",
+      "price": 899
+    },
+    {
+      "id": "c191",
+      "productName": "FleeceTech Pullover Hoodie",
+      "description": "Stay cozy and stylish this winter",
+      "image": "https://www.jockey.in/cdn/shop/products/AM92_PF-CH_0103_S223_JKY_2.webp?v=1700027647&width=420",
+      "rating": "3",
+      "price": 899
+    },
+    {
+      "id": "9b53",
+      "productName": "FleeceTech Pullover Hoodie",
+      "description": "Stay cozy and stylish this winter",
+      "image": "https://www.jockey.in/cdn/shop/products/UM35_BLACK_0103_S223_JKY_2.webp?v=1700004478&width=420",
+      "rating": "3",
+      "price": 699
+    },
+    {
+      "id": "570a",
+      "productName": "FleeceTech Pullover Hoodie",
+      "description": "Stay cozy and stylish this winter",
+      "image": "https://www.jockey.in/cdn/shop/products/MV31_BLACK_0103_S223_JKY_1.webp?v=1700005873&width=420",
+      "rating": "4",
+      "price": 899
+    },
+    {
+      "id": "cb87",
+      "productName": "FleeceTech Pullover Hoodie",
+      "description": "Stay cozy and stylish this winter",
+      "image": "https://www.jockey.in/cdn/shop/products/MV40_BLACK_0103_S123_JKY_1.webp?v=1700004376&width=420",
+      "rating": "4",
+      "price": 899
+    }
+  ],
+  "users": [
+    {
+      "userName": "mohit",
+      "pwd": "mohit@123",
+      "phone": 8899556633,
+      "age": 23,
+      "city": "Chandrapur",
+      "id": "0c45"
+    }
+  ]
+}

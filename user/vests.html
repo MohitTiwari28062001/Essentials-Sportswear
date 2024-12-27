@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Essentials | Vests</title>
+        <link rel="stylesheet" href="style.css">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Caveat&family=Jost:ital,wght@0,100..900;1,100..900&family=Libre+Baskerville&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+            rel="stylesheet">
+    </head>
+    <body>
+        <div>
+            <!-- Nav Start -->
+            <div class="navContainer">
+                <div>
+                    <p class="titleContainer">
+                        <a href="./compression.html">Essentials</a>
+                    </p>
+                </div>
+                <div class="navLinkContainer">
+                    <p>
+                        <a href="./compression.html">Compression</a>
+                    </p>
+                    <p>
+                        <a href="./trackpants.html">Trackpants</a>
+                    </p>
+                    <p>
+                        <a href="./shorts.html">Shorts</a>
+                    </p>
+                    <p>
+                        <a href="./tShirt.html">T-shirt</a>
+                    </p>
+                    <p>
+                        <a href="./vests.html">Vests</a>
+                    </p>
+                    <p>
+                        <a href="./oversized.html">Oversized</a>
+                    </p>
+
+                </div>
+                <div class="navBtnContainer">
+                    <a href="./login.html" class="btnLogin">Login</a>
+                    <a href="./signup.html" class="btnSignUp">Sign Up</a>
+                </div>
+            </div>
+            <!-- Nav End -->
+            <div class="pagiContainer">
+                <form id="sortVestForm">
+                    <label>Sort by</label>
+                    <input type="number" name="price"
+                        placeholder="enter the price" class="form-select">
+                    <select name="option" class="form-select" id="selectme">
+                        <option value>equal</option>
+                        <option value="_lt">less than</option>
+                        <option value="_gt">greater than</option>
+                        <option value="_lte">less than equal to</option>
+                        <option value="_gte">greater than equal to</option>
+                        <option value="_ne">not equal</option>
+                    </select>
+
+                    <input type="submit">
+                </form>
+
+            </div>
+            <div id="sortedProductContainer"></div>
+            <div id="vesContainer">
+
+            </div>
+            <!--Footer Start  -->
+            <div class="footerContainer"> <p>© 2024 &nbsp;</p> | &nbsp;<p>
+                    Essentials Limited&nbsp;</p>
+                | <p>&nbsp; All Rights Reserved.&nbsp;</p>| <p>&nbsp;We Do
+                    Gym.</p></div>
+            <!--Footer End  -->
+        </div>
+    </body>
+    <script src="./script/vests.js"></script>
+</html>

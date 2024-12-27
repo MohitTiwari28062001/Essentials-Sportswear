@@ -1,0 +1,337 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Jost", sans-serif;
+}
+body {
+  width: 100%;
+}
+.navContainer {
+  background-color: #242426;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.sideBar {
+  background-color: #24242677;
+  position: fixed;
+  top: 0;
+  z-index: 999;
+  right: 0;
+  width: 250px;
+  height: 100vh;
+  display: none;
+  flex-direction: column;
+  padding-left: 20px;
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  /* padding-top: 20px; */
+}
+
+.sideTitle {
+  display: flex;
+  margin: 20px 0;
+}
+.sideBar > .navLinkContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.sideBar > .navLinkContainer > p > a {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.sideBar > .navBtnContainer > a {
+  padding: 5px 10px;
+  background-color: #242426;
+  border: 2px solid white;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  margin: 30px 0;
+  text-align: center;
+}
+
+.titleContainer {
+  display: flex;
+}
+.navLinkContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+.titleContainer > a {
+  text-decoration: none;
+  background-color: white;
+  color: #242426;
+  width: 150px;
+  height: 35px;
+  text-align: center;
+  align-content: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 50px;
+  margin-right: 80px;
+  border-radius: 5px;
+}
+.navLinkContainer > p > a {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.navBtnContainer > a {
+  padding: 5px 10px;
+  background-color: #242426;
+  border: 2px solid white;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  margin-right: 10px;
+}
+.hamIcon {
+  display: none;
+}
+.footerContainer {
+  background-color: #242426;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  color: white;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+#cmpContainer {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  width: 81%;
+  background-color: #221f2014;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+#shortsContainer {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  width: 81%;
+  background-color: #221f2014;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+#tcksContainer {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  width: 81%;
+  background-color: #221f2014;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+#tshirtContainer {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  width: 81%;
+  background-color: #221f2014;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+#ovsContainer {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  width: 81%;
+  background-color: #221f2014;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+#vesContainer,
+#sortedProductContainer {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  width: 81%;
+  background-color: #221f2014;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.cardDiv {
+  border: 1px solid rgba(34, 31, 32, 0.1);
+  padding: 10px;
+  border-radius: 22px;
+  box-shadow: 0 0 14.604644775390625px #221f2014;
+  background: #fff;
+  margin-top: 6px;
+}
+.cardImage {
+  height: 370px;
+  width: 303px;
+  border-radius: 10px;
+}
+.cardTitle {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.cardDescription {
+  margin-bottom: 8px;
+  width: 250px;
+  font-size: 16px;
+  color: #5a5859;
+  overflow: hidden;
+}
+.prDiv {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  align-items: center;
+}
+.cardRating {
+  font-size: 18px;
+  margin-left: 3px;
+  /* color: white;
+  background-color: #242426;
+  height: 25px;
+  width: 35px;
+  text-align: center;
+  border-radius: 5px; */
+}
+.cardPrice {
+  background-color: #242426;
+  width: 100px;
+  height: 36px;
+  color: white;
+  text-align: center;
+  align-content: center;
+  border-radius: 10px;
+  font-size: 17px;
+}
+.pagiContainer {
+  display: flex;
+  justify-content: right;
+  width: 1365.51px;
+  margin: auto;
+}
+#sortVestForm {
+  display: flex;
+  flex-direction: row;
+  height: 45px;
+  align-items: center;
+}
+#sortVestForm > label {
+  width: 165px;
+  overflow: hidden;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: right;
+}
+#sortVestForm > input[type="submit"] {
+  background-color: #242426;
+  color: white;
+  border: 0;
+  padding: 6px 10px;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+.btnClear {
+  background-color: #242426;
+  color: white;
+  border: 0;
+  padding: 6px 10px;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+#sortVestForm > input {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-left: 5px;
+}
+
+.pagiContainer {
+  width: 100%;
+}
+#sortVestForm > select {
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+@media (max-width: 1010px) {
+  .hideOnPhone {
+    display: none;
+  }
+  .hamIcon {
+    display: block;
+  }
+}
+@media (max-width: 467px) {
+  .navBtnContainer > a {
+    display: none;
+  }
+}
+@media (max-width: 400px) {
+  .sideBar {
+    width: 100%;
+  }
+  .sideTitle{
+    padding-left: 20px;
+  }
+  .sideBar > .navLinkContainer {
+    padding-left: 20px;
+  }
+
+  .sideBar > .navLinkContainer > p > a {
+    padding-left: 20px;
+  }
+
+  .sideBar > .navBtnContainer > a {
+    margin-left: 40px;
+  }
+}

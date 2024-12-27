@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Essentials | Update Products</title>
+        <link rel="stylesheet" href="./admin.css">
+    </head>
+    <body>
+
+        <!-- Nav Start-->
+        <div class="navContainer">
+            <div class="titleContainer">
+                <p>Essentials</p>
+            </div>
+            <div class="navLinkContainer">
+                <p>
+                    <a href="./addProducts.html">Add Products</a>
+                </p>
+                <p>
+                    <a href="./updateProducts.html">Update Products</a>
+                </p>
+                <p>
+                    <a href="./deleteProducts.html">Delete Products</a>
+                </p>
+            </div>
+        </div>
+        <!-- Nav End-->
+        <h1 class="formTitle">Choose Product Category and ID</h1>
+        <form action id="getDel">
+            <label for>Product Category</label>
+            <input type="text" id="categoryType">
+            <label for>Product ID</label>
+            <input type="text" id="inputText">
+            <button type="submit" id="detailsBtn">Get Details</button>
+
+        </form>
+
+        <h1 class="formTitle">Update Product Details</h1>
+
+        <form action id="updateProd">
+            <label for>Product Name</label>
+            <input id="productName" type="text">
+            <label for>Product Description</label>
+            <input id="description" type="text">
+            <label for>Product Image</label>
+            <input id="image" type="url">
+            <label for>Product Rating</label>
+            <input id="rating" type="number">
+            <label for>Product Price</label>
+            <input id="price" type="number">
+            <input type="submit">
+        </form>
+
+    </body>
+    <script src="./updateProducts.js"></script>
+</html>

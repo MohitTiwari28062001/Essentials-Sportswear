@@ -1,0 +1,200 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  display: flex;
+  flex-direction: row;
+}
+#imgContainer {
+  height: 50%;
+  width: 50%;
+  background-image: url(https://wallpaperbat.com/img/111549-black-fitness-wallpaper-top-free-black-fitness-background.jpg);
+}
+.formTitle {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+#formContainer {
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+#formContainer > form > input {
+  border: 1px solid #ccd0d5;
+  border-radius: 5px;
+  background-color: #f5f6f7;
+  height: 30px;
+  border-radius: 5px;
+}
+#formContainer > form > label {
+  font-size: 18px;
+}
+#formContainer > form > input[type="submit"] {
+  background-color: #0545ac;
+  color: white;
+  font-size: 18px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  margin: auto;
+  border: 0;
+  margin-top: 10px;
+}
+.navContainer {
+  width: 100%;
+  height: 60px;
+  background-color: #0545ac;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+.titleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  color: #0545ac;
+  height: 40px;
+  width: 150px;
+  border-radius: 5px;
+  font-size: 23px;
+  font-weight: bold;
+  margin-left: 250px;
+  margin-right: 100px;
+}
+.navLinkContainer {
+  display: flex;
+  gap: 30px;
+}
+
+.navLinkContainer > p > a {
+  text-decoration: none;
+  color: white;
+  font-size: 19px;
+}
+
+#addProduct {
+  display: flex;
+  flex-direction: column;
+  width: 55%;
+  margin: auto;
+  gap: 10px;
+  padding: 20px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#updateProd {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  margin: auto;
+  gap: 10px;
+  padding: 20px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#updateProd > input {
+  border: 1px solid #ccd0d5;
+  border-radius: 5px;
+  background-color: #f5f6f7;
+  height: 30px;
+  border-radius: 5px;
+}
+#updateProd > label {
+  font-size: 18px;
+}
+#updateProd > input[type="submit"] {
+  background-color: #0545ac;
+  color: white;
+  font-size: 18px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  margin: auto;
+  border: 0;
+  margin-top: 10px;
+}
+#getDel {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  margin: auto;
+  gap: 10px;
+  padding: 20px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#getDel > input {
+  border: 1px solid #ccd0d5;
+  border-radius: 5px;
+  background-color: #f5f6f7;
+  height: 30px;
+  border-radius: 5px;
+}
+#getDel > label {
+  font-size: 18px;
+}
+#getDel > button {
+  background-color: #0545ac;
+  color: white;
+  font-size: 18px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  margin: auto;
+  border: 0;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+#deleteProducts {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  margin: auto;
+  gap: 10px;
+  padding: 20px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#deleteProducts > input {
+  border: 1px solid #ccd0d5;
+  border-radius: 5px;
+  background-color: #f5f6f7;
+  height: 30px;
+  border-radius: 5px;
+}
+#deleteProducts > label {
+  font-size: 18px;
+}
+#deleteProducts > input[type="submit"] {
+  background-color: #0545ac;
+  color: white;
+  font-size: 18px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  margin: auto;
+  border: 0;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+#updateFormCon {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}

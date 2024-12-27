@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Essentials | Delete Products</title>
+        <link rel="stylesheet" href="./admin.css">
+    </head>
+    <body>
+        <div id="parent">
+
+            <!-- Nav Start-->
+            <div class="navContainer">
+                <div class="titleContainer">
+                    <p>Essentials</p>
+                </div>
+                <div class="navLinkContainer">
+                    <p>
+                        <a href="./addProducts.html">Add Products</a>
+                    </p>
+                    <p>
+                        <a href="./updateProducts.html">Update Products</a>
+                    </p>
+                    <p>
+                        <a href="./deleteProducts.html">Delete Products</a>
+                    </p>
+                </div>
+            </div>
+            <!-- Nav End-->
+            <form action id="deleteProducts">
+                <label for>Product Category</label>
+                <input type="text" id="categoryType">
+                <label for>Product ID</label>
+                <input type="text" id="productID">
+                <input type="submit">
+            </form>
+        </div>
+    </body>
+    <script src="./deleteProducts.js"></script>
+</html>
